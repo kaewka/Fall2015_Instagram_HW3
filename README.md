@@ -29,8 +29,14 @@ Homework 3:
  * [x] Required: User can search for a tag.
  * [x] Optional: User can get a grid of photos by clicking on a search result (i.e. a user or tag).
 
+Homework 4:
+ * Time spent: 5 hours spent in total
+ * [x] Required: Add pull-to-refresh for the home feed with SwipeRefreshLayout.
+ * [x] Required: User can open the Instagram client offline and see last loaded feed.
+ * [x] Required: Create a background service to make the network request, load items into the DB and populate the view (for the user's home feed).
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](Instagram3.gif)
+![Video Walkthrough](Instagram4.gif)

@@ -43,6 +43,8 @@
             android:name=".activities.PhotoGridActivity"
             android:label="Photos">
         </activity>
+
+        <service android:name=".services.InstagramIntentService"></service>
     </application>
 
 </manifest>
